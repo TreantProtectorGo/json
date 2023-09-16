@@ -1020,46 +1020,6 @@
       "location": {
         "x": 0,
         "y": 0,
-        "z": 7.5
-      },
-      "rotation": {
-        "aplha": 0,
-        "beta": 0,
-        "gamma": 0
-      },
-      "message": "4",
-      "img": [
-        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
-        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
-      ],
-      "products": [
-        {
-          "name": "雙黃白蓮蓉月餅",
-          "price": "$238.50",
-          "manufacturer": "榮華"
-        },
-        {
-          "name": "恆香伍仁月餅",
-          "price": "$238.00",
-          "manufacturer": "恆香"
-        },
-        {
-          "name": "雙黃白蓮蓉月餅",
-          "price": "$193.00",
-          "manufacturer": "BAKER'S CHOICE"
-        },
-        {
-          "name": "金沙流心奶黃月餅",
-          "price": "$220.00",
-          "manufacturer": "聖安娜"
-        }
-      ]
-    },
-    {
-      "name": "Shelf 14",
-      "location": {
-        "x": 0,
-        "y": 0,
         "z": 4.5
       },
       "rotation": {
@@ -1092,6 +1052,46 @@
           "name": "獨立片裝低脂芝士",
           "price": 37.0,
           "manufacturer": "卡夫"
+        }
+      ]
+    },
+    {
+      "name": "Shelf 14",
+      "location": {
+        "x": 0,
+        "y": 0,
+        "z": 7.5
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 0,
+        "gamma": 0
+      },
+      "message": "4",
+      "img": [
+        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
+        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
+      ],
+      "products": [
+        {
+          "name": "雙黃白蓮蓉月餅",
+          "price": "$238.50",
+          "manufacturer": "榮華"
+        },
+        {
+          "name": "恆香伍仁月餅",
+          "price": "$238.00",
+          "manufacturer": "恆香"
+        },
+        {
+          "name": "雙黃白蓮蓉月餅",
+          "price": "$193.00",
+          "manufacturer": "BAKER'S CHOICE"
+        },
+        {
+          "name": "金沙流心奶黃月餅",
+          "price": "$220.00",
+          "manufacturer": "聖安娜"
         }
       ]
     },
